@@ -18,7 +18,7 @@ MIT License
 
 
 # Linkage
-GitHub page: 
+GitHub page: https://ra724619.github.io/planner-app/
 
 GitHub repository：https://github.com/ra724619/planner-app
 
