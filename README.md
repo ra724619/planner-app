@@ -13,11 +13,14 @@ No installation needed.
 MIT License
 
 # Screenshot
+![_Users_raymond131415_bootcamp_planner-app_index html (1)](https://user-images.githubusercontent.com/117188356/215113804-9ea17f60-aad6-405c-87d7-bbfb9b2592a3.png)
+![_Users_raymond131415_bootcamp_planner-app_index html](https://user-images.githubusercontent.com/117188356/215113827-3204f0a3-eac0-4b02-b050-a9c564d8ecc8.png)
 
 
 # Linkage
-GitHub page:
-GitHub repository：
+GitHub page: 
+
+GitHub repository：https://github.com/ra724619/planner-app
 
 
 # Credit
